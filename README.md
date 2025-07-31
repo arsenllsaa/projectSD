@@ -1,5 +1,4 @@
 # projectSD
-project punya salsa dan dania
 daftar-biodata-siswa
 ==
 Daftar biodata siswa SMK MAskumambang
