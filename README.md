@@ -7,4 +7,4 @@ Daftar biodata siswa SMK MAskumambang
 -angkatan 2023
 -angkatan 2024
 -angkatan 2025
-+pppp
++pppp+
